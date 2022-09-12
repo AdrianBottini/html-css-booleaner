@@ -1,7 +1,63 @@
-head{
-    background-image: url('img/pattern.png');
+header{
+    background-image: url('../img/pattern.png');
+    background-size: auto 100%;
+    padding: 30px;
+    background-color: blue;
+    margin-top: -10px;
+    margin-left: -10px;
 }
 
 img {
     width: 200px;
+    margin-top: 20px;
+}
+
+h1{
+   font-size: 50px;
+}
+
+.intestazione{
+    margin-top: -40px;
+}
+
+.light-grey{
+    color: lightslategray;
+    font-size: 20px;
+}
+
+.light-blue{
+    color: lightskyblue;
+    font-size: 20px;
+}
+
+.light-grey2{
+    color: lightslategray;
+    margin-top: -15px;
+    font-size: 15px;
+}
+
+.tim1{
+    width: 820px;
+}
+
+.tim2{
+    width: 700px;
+}
+
+.photo1{
+    margin-top: 1px;
+    font-size: 13px;
+}
+
+.photo2{
+    margin-top: -15px;
+    font-size: 13px;
+}
+
+.lorem{
+    font-size: large;
+}
+
+.yellow{
+    background-color: yellow;
 }
