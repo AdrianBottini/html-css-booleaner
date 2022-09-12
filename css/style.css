@@ -1,0 +1,8 @@
+body{
+    background-image: url('img/pattern.png');
+    background-position: top;
+}
+
+img {
+    width: 200px;
+}
