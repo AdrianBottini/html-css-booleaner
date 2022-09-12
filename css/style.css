@@ -77,13 +77,34 @@ th {
     text-align: center;
     background-color: #1E90FF;
     color: white;
-  }
+}
 
-  td{
+td{
     padding-top: 16px;
     padding-bottom: 10px;
-  }
+}
 
-  .blue{
+.blue{
     background-color: #00BFFF;
-  }
+}
+
+.grey{
+    color: grey;
+}
+
+.immagine1{
+    background-image: url('../img/monitor.jpg');
+    padding: 100px;
+    background-repeat: no-repeat;
+}
+
+.white{
+    color: white;
+    
+}
+
+.immagine2{
+    background-image: url('../img/graph.jpg');
+    padding: 100px;
+    background-repeat: no-repeat;
+}
