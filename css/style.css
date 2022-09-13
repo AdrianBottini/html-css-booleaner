@@ -1,13 +1,13 @@
 header{
     background-image: url('../img/pattern.png');
-    background-size: auto 100%;
+    background-size: 530px;
     padding: 30px;
     background-color: blue;
     margin-top: -10px;
     margin-left: -10px;
 }
 
-img {
+.logo {
     width: 200px;
     margin-top: 20px;
 }
@@ -36,14 +36,6 @@ h1{
     font-size: 15px;
 }
 
-.tim1{
-    width: 820px;
-}
-
-.tim2{
-    width: 700px;
-}
-
 .photo1{
     margin-top: 1px;
     font-size: 13px;
@@ -68,20 +60,29 @@ ul{
 
 table {
     border-collapse: collapse;
-    width: 100%;
-  }
+}
+
+.cell-25{
+    width: 25%;
+}
+
+.cell-50{
+    width: 50%;
+}
 
 th {
     padding-top: 16px;
     padding-bottom: 10px;
-    text-align: center;
     background-color: #1E90FF;
     color: white;
+    text-align: left;
 }
 
 td{
     padding-top: 16px;
     padding-bottom: 10px;
+    height: 30px;
+    text-align: left;
 }
 
 .blue{
